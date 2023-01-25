@@ -1,8 +1,8 @@
-### Cryptocurrencies
+# Cryptocurrencies
 
 ## Overview of Project 
 
-## Purpose
+### Purpose
 
 The purpose of this analysis is to use unsupervised machine learning model and create an analysis for clients who are 
 preparing to get into the cryptocurrency market. The task is to create a report that includes what cryptocurrencies are 
